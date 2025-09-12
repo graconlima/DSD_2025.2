@@ -1,5 +1,3 @@
-# Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
-
 # DSD-2025.1 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 
@@ -12,6 +10,10 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERHBmbQ8UX5MkPFDqCKAoecBMpZFOZjXNq6h2kwDOI5KRg?e=GU44Cs">Aula 1</a> - Caracterização SD</p>
 
 <br>
+
+<!--
+# Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
+
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.1</a> - Tarefa 1</p>
@@ -42,7 +44,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2023.2/EVWy3e3DVf5Eq10kDlpD_IsBSQSjG4aVaV32xn9m0EJd0g?e=i8O653&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Aula 5.1 </a> - Estudo de Caso - API (videoaula)</p>
 
 
-<!--
+
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZa14SbTZwhJlL8qZHKsDLQB1XAOckPQV0OIg8stdBltUA?e=8ATHdM">Aula 2.1</a> - Leitura (Cap. 3)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EfBqyQSb5wZApdu1gHkvS7QB1pRpB14eJTHOsDKqndKnew?e=KgGOIb">Aula 3.1</a> - Leitura (Cap. 4)</p>
