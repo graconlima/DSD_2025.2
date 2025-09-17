@@ -1,4 +1,5 @@
 # DSD-2025.1 
+## Atenção: as aulas da segunda (a partir do 22) e sexta-feira serão cedidas à disciplina de Arquitetura (AS) para fins de antecipação de aulas (em virtude de defesa de doutorado do prof. Fabiano), durante 3 senamas. Após esse período, as aulas de Sistemas Distribuídos utilizarão o horário AS para repor as aulas.
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 
 <br>
