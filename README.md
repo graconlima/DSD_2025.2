@@ -13,7 +13,7 @@
 <br>
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdQsNYFjFPtBtejLT7lqb5YBCIJw-ltkzZPIySm0f1l-zg?e=kKGTig">Aula 2 </a> - WEB</p>
-
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2023.2/EVWy3e3DVf5Eq10kDlpD_IsBSQSjG4aVaV32xn9m0EJd0g?e=i8O653&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Aula 2.1 </a> - Estudo de Caso - API (videoaula)</p>
 
 <!--
 
@@ -51,7 +51,7 @@
 
 <br>
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2023.2/EVWy3e3DVf5Eq10kDlpD_IsBSQSjG4aVaV32xn9m0EJd0g?e=i8O653&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Aula 5.1 </a> - Estudo de Caso - API (videoaula)</p>
+
 
 
 
