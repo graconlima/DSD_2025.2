@@ -12,7 +12,16 @@
 
 <br>
 
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdQsNYFjFPtBtejLT7lqb5YBCIJw-ltkzZPIySm0f1l-zg?e=kKGTig">Aula 2 </a> - WEB</p>
+
+
 <!--
+
+
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdXZ71Xx1KZFteXtYsvt_PYB298RIbBq3mbeiAmtDsBblg?e=mRdkhd">Aula 5.2 </a> - Serviços Web (SOAP)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 5.3 </a> - Serviços Web (REST)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 5.4 </a> - Tarefa 4 (SOAP e REST)</p>
+
 # Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
 
 
@@ -56,12 +65,6 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EQRnwBaafVhJimcnRn6leYIB6rQ_gzWWAdKwWH5LG-TWzQ?e=TXrdIW">Aula 4.8 </a> - CORBA (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERZ84tlerbNJvzZZ8xEAnaQBs-1MvWymocnvhfdxvuzypQ?e=aYBHRz">Aula 4.9 </a> - gRPC</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 4.10 </a> - Tarefa 3 (gRPC)</p>
-<p> </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdQsNYFjFPtBtejLT7lqb5YBCIJw-ltkzZPIySm0f1l-zg?e=kKGTig">Aula 5 </a> - WEB</p>
-
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdXZ71Xx1KZFteXtYsvt_PYB298RIbBq3mbeiAmtDsBblg?e=mRdkhd">Aula 5.2 </a> - Serviços Web (SOAP)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 5.3 </a> - Serviços Web (REST)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 5.4 </a> - Tarefa 4 (SOAP e REST)</p>
 
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 6 </a> - Comunicação indireta</p>
