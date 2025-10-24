@@ -15,11 +15,11 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdQsNYFjFPtBtejLT7lqb5YBCIJw-ltkzZPIySm0f1l-zg?e=kKGTig">Aula 2 </a> - WEB</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 2.1 </a> - Serviços Web (REST)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2023.2/EVWy3e3DVf5Eq10kDlpD_IsBSQSjG4aVaV32xn9m0EJd0g?e=i8O653&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Aula 2.2 </a> - Estudo de Caso - API (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdXZ71Xx1KZFteXtYsvt_PYB298RIbBq3mbeiAmtDsBblg?e=mRdkhd">Aula 2.2 </a> - Serviços Web (SOAP)</p>
 
 <!--
 
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdXZ71Xx1KZFteXtYsvt_PYB298RIbBq3mbeiAmtDsBblg?e=mRdkhd">Aula 5.2 </a> - Serviços Web (SOAP)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 5.4 </a> - Tarefa 4 (SOAP e REST)</p>
 
 # Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
