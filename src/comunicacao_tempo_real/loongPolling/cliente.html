@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<body>
+  <h1>Exemplo de Long Polling</h1>
+  <p id="status">Aguardando...</p>
+
+  <script>
+    function longPolling() {
+      fetch("http://localhost:3001/dados")
+        .then(r => r.json())
+        .then(dados => {
+          document.getElementById("status").innerText =
+            "Novo dado recebido: " + dados.valor;
+
+          // Assim que recebe, dispara outra requisição
+          longPolling();
+        })
+        .catch(() => {
+          // Em caso de erro, tenta novamente após 1 segundo
+          setTimeout(longPolling, 1000);
+        });
+    }
+
+    longPolling(); // inicia o ciclo
+  </script>
+</body>
+</html>

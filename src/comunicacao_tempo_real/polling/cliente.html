@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<body>
+  <h1>Exemplo de Polling</h1>
+  <p id="status">Carregando...</p>
+
+  <script>
+    function buscarDados() {
+      fetch("http://localhost:3000/dados")
+        .then(r => r.json())
+        .then(dados => {
+          document.getElementById("status").innerText =
+            "Dado recebido: " + dados.valor;
+        });
+    }
+
+    // Faz uma requisição a cada 2 segundos
+    setInterval(buscarDados, 2000);
+  </script>
+</body>
+</html>

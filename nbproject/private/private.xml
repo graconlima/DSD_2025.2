@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/1958314/DSD-2025.1/src/protocolo_requisicao_resposta/Servidor.java</file>
-            <file>file:/C:/Users/1958314/DSD-2025.1/src/protocolo_requisicao_resposta/Mensagem.java</file>
+            <file>file:/C:/Users/graco/DSD_2025.2/src/soap/PublicadorCalculadora.java</file>
+            <file>file:/C:/Users/graco/DSD_2025.2/src/soap/CalculadoraCliente.java</file>
+            <file>file:/C:/Users/graco/DSD_2025.2/src/soap/ServicoCalculadora.java</file>
+            <file>file:/C:/Users/graco/DSD_2025.2/src/soap/InterfaceCalculadora.java</file>
         </group>
     </open-files>
 </project-private>

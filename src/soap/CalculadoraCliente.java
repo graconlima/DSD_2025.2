@@ -9,7 +9,7 @@ public class CalculadoraCliente {
     public static void main(String args[]){
         
         try{
-            URL url = new URL("http://10.25.2.109:9876/calcsoap?wsdl");
+            URL url = new URL("http://10.24.22.180:9876/calcsoap?wsdl");
             QName qname = new QName("http://soap/", "ServicoCalculadoraService");
             
             Service ws = Service.create(url, qname);
