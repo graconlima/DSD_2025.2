@@ -20,7 +20,7 @@
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 3 </a> - WebSocket</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W">Aula 3.1 </a> - Estudo de Caso - Chat (GitHub)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 5 e 6 (REST e WebSocket)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 2 (REST e WebSocket)</p>
 
 
 
