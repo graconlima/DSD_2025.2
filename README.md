@@ -1,5 +1,4 @@
 # DSD-2025.1 
-## Atenção: as aulas da segunda (a partir do 22) e sexta-feira serão cedidas à disciplina de Arquitetura (AS) para fins de antecipação de aulas (em virtude de defesa de doutorado do prof. Fabiano), durante 3 senamas. Após esse período, as aulas de Sistemas Distribuídos utilizarão o horário AS para repor as aulas.
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 
 <br>
@@ -20,6 +19,9 @@
 
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 3 </a> - WebSocket</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W">Aula 3.1 </a> - Estudo de Caso - Chat (GitHub)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 5 e 6 (REST e WebSocket)</p>
+
 
 
 <!--
@@ -27,6 +29,7 @@
 
 
 # Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
+## Atenção: as aulas da segunda (a partir do 22) e sexta-feira serão cedidas à disciplina de Arquitetura (AS) para fins de antecipação de aulas (em virtude de defesa de doutorado do prof. Fabiano), durante 3 senamas. Após esse período, as aulas de Sistemas Distribuídos utilizarão o horário AS para repor as aulas.
 
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
@@ -71,7 +74,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 4.10 </a> - Tarefa 3 (gRPC)</p>
 
 <br>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 6 </a> - Comunicação indireta</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 6 </a> - Comunicação indireta</p>-
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 6.1 </a> - Comunicação por difusão seletiva</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Eb6ompNBeyhOg-l0cs1-ILUBrlMilChZ_23ZCz3X5pycBg?e=oqV0p0">Aula 6.2 </a> - Sistemas publicar-assinar</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 6.3 </a> - Filas de mensagens</p>
@@ -91,8 +94,6 @@ Aula 7 - Extras
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUnR0KSBFg5DpUnxKdMKcFABwalutnKR0t6zUVExd5qNeQ?e=pnv0yc" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUnR0KSBFg5DpUnxKdMKcFABwalutnKR0t6zUVExd5qNeQ?e=pnv0yc">Aula 4.9 </a> - Tarefa 3 (RMI)</p>
 
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W">Aula 8.1 </a> - Estudo de Caso - Chat (GitHub)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 8.2 </a> - Tarefa 5 e 6 (REST e WebSocket)</p>
 <br>
 
 
