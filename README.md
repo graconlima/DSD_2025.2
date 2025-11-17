@@ -1,4 +1,6 @@
 # DSD-2025.1 
+## Atenção: as aulas da segunda (a partir do dia 24) e sexta-feira serão utilizadas para fins de reposição de aulas durante 3 senamas. Após esse período, as aulas de Sistemas Distribuídos seguirão normalmente.
+
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 
 <br>
