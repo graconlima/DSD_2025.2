@@ -24,7 +24,9 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W">Aula 3.1 </a> - Estudo de Caso - Chat (GitHub)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 2 (REST e WebSocket)</p>
 
-
+<br>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 4 </a> - Comunicação indireta</p>-
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 4.1 </a> - Comunicação por difusão seletiva</p>
 
 <!--
 
@@ -75,9 +77,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERZ84tlerbNJvzZZ8xEAnaQBs-1MvWymocnvhfdxvuzypQ?e=aYBHRz">Aula 4.9 </a> - gRPC</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 4.10 </a> - Tarefa 3 (gRPC)</p>
 
-<br>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 6 </a> - Comunicação indireta</p>-
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 6.1 </a> - Comunicação por difusão seletiva</p>
+
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Eb6ompNBeyhOg-l0cs1-ILUBrlMilChZ_23ZCz3X5pycBg?e=oqV0p0">Aula 6.2 </a> - Sistemas publicar-assinar</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 6.3 </a> - Filas de mensagens</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 6.4 </a> - Tarefa 7 (MOM)</p>
