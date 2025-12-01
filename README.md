@@ -25,7 +25,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 2 (REST e WebSocket)</p>
 
 <br>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 4 </a> - Comunicação indireta</p>-
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 4 </a> - Comunicação indireta</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 4.1 </a> - Comunicação por difusão seletiva</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Eb6ompNBeyhOg-l0cs1-ILUBrlMilChZ_23ZCz3X5pycBg?e=oqV0p0">Aula 4.2 </a> - Sistemas publicar-assinar</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 4.3 </a> - Filas de mensagens</p>
