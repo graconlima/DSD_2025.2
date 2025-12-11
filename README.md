@@ -32,6 +32,9 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 4.4 </a> - Tarefa 4 (MOM)</p>
 
 
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 5</a> - Redes</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 5.1</a> - Requisitos de Redes</p>
+
 <!--
 
 
@@ -40,9 +43,6 @@
 ## Atenção: as aulas da segunda (a partir do 22) e sexta-feira serão cedidas à disciplina de Arquitetura (AS) para fins de antecipação de aulas (em virtude de defesa de doutorado do prof. Fabiano), durante 3 senamas. Após esse período, as aulas de Sistemas Distribuídos utilizarão o horário AS para repor as aulas.
 
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.1</a> - Tarefa 1</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 2.2</a> - Requisitos de Redes</p>
 
 <br>
 
