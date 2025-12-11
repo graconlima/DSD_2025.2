@@ -31,6 +31,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 4.3 </a> - Filas de mensagens</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 4.4 </a> - Tarefa 4 (MOM)</p>
 
+<br>
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 5</a> - Redes</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 5.1</a> - Requisitos de Redes</p>
