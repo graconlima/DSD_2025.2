@@ -43,7 +43,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZUG01vdM41Mu2RJa880ZfABFXj5y3eAPpIkikxDm2N5oA?e=3te35m">Aula 6.2 </a> - UDP</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ETb4vQUAhDFPjL27sfv7BbEByjtoBmhPCKS2apw2YxTndw?e=WgRRTq">Aula 6.3 </a> - TCP (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ERzXu1bz7_pBq0A-2oSNPsoB3p5O6UO9fToVDBCj3C37CQ?e=yFGU5V">Aula 6.4 </a> - UDP (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 6.5 </a> - Tarefa 5 (TCP e UDP)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQDj0dFb1x47RbmgxGMb3Xd5Advlmg--b3eoVQzRQUaMUAw?e=irGG5g">Aula 6.5 </a> - Tarefa 5 (TCP e UDP)</p>
 
 <br>
 
@@ -56,9 +56,11 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbZ5xvn3O8VArPchhOJPgpEB_6tZakrcjE-lTPd3Y1kKcQ?e=9iJ8oo">Aula 7.7 </a> - RMI (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EQRnwBaafVhJimcnRn6leYIB6rQ_gzWWAdKwWH5LG-TWzQ?e=TXrdIW">Aula 7.8 </a> - CORBA (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERZ84tlerbNJvzZZ8xEAnaQBs-1MvWymocnvhfdxvuzypQ?e=aYBHRz">Aula 7.9 </a> - gRPC</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 7.10 </a> - Tarefa 6 (gRPC)</p>
+<p><a class="external-link" href=https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQD06eUlY-MES7MV99wZ4f8pASRkjrlSBLa2qMtiNn7ZOE8?e=Pl7FHY">Aula 7.10 </a> - Tarefa 6 (gRPC)</p>
 
 <!--
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 6.5 </a> - Tarefa 5 (TCP e UDP)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 7.10 </a> - Tarefa 6 (gRPC)</p>
 
 
 
