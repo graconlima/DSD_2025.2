@@ -17,19 +17,19 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 2.1 </a> - Serviços Web (REST)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2023.2/EVWy3e3DVf5Eq10kDlpD_IsBSQSjG4aVaV32xn9m0EJd0g?e=i8O653&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Aula 2.2 </a> - Estudo de Caso - API (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdXZ71Xx1KZFteXtYsvt_PYB298RIbBq3mbeiAmtDsBblg?e=mRdkhd">Aula 2.2 </a> - Serviços Web (SOAP)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 2.3 </a> - Tarefa 1 e 2 (SOAP e REST)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQAL8kKCfk4dTLRvyS-QpPT1Adlul982E_j5f24xBNDYMPI?e=pUv9jd">Aula 2.3 </a> - Tarefa 1 e 2 (SOAP e REST)</p>
 
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 3 </a> - WebSocket</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERUnimmOS4ZKoFzecFEktzsB73y2hvDdncq9RoR5TCLJqA?e=nQ5D5W">Aula 3.1 </a> - Estudo de Caso - Chat (GitHub)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 3 (REST e WebSocket)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQBVcVkgy8UcRIb4ZAOyNZYOAewnY7XYk5AG2dsyLSf8xic?e=y28aZQ">Aula 3.2 </a> - Tarefa 3 (REST e WebSocket)</p>
 
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 4 </a> - Comunicação indireta</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 4.1 </a> - Comunicação por difusão seletiva</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Eb6ompNBeyhOg-l0cs1-ILUBrlMilChZ_23ZCz3X5pycBg?e=oqV0p0">Aula 4.2 </a> - Sistemas publicar-assinar</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 4.3 </a> - Filas de mensagens</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 4.4 </a> - Tarefa 4 (MOM)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQAtdkbZ4YAoRKuFG0QKuE5JAZaoHxZp4chWP6Uosvh3VEU?e=MUciya">Aula 4.4 </a> - Tarefa 4 (MOM)</p>
 
 <br>
 
@@ -59,6 +59,9 @@
 <p><a class="external-link" href=https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQD06eUlY-MES7MV99wZ4f8pASRkjrlSBLa2qMtiNn7ZOE8?e=Pl7FHY">Aula 7.10 </a> - Tarefa 6 (gRPC)</p>
 
 <!--
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 2.3 </a> - Tarefa 1 e 2 (SOAP e REST)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 3 (REST e WebSocket)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 4.4 </a> - Tarefa 4 (MOM)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 6.5 </a> - Tarefa 5 (TCP e UDP)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 7.10 </a> - Tarefa 6 (gRPC)</p>
 
