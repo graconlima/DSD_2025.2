@@ -1,7 +1,7 @@
 # DSD-2025.1 
 ## Atenção: as aulas da segunda (a partir do dia 24) e sexta-feira serão utilizadas para fins de reposição de aulas durante 3 senamas. Após esse período, as aulas de Sistemas Distribuídos seguirão normalmente.
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQCVNhmpKi0jS50dYeko3hPZAXlhOVCRz-UeznvJrOhpFSU?e=6ThsdK">e-book</a> - Notas de Aula DSD </p>
 
 <br>
 
@@ -59,6 +59,7 @@
 <p><a class="external-link" href=https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/IQD06eUlY-MES7MV99wZ4f8pASRkjrlSBLa2qMtiNn7ZOE8?e=Pl7FHY">Aula 7.10 </a> - Tarefa 6 (gRPC)</p>
 
 <!--
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 2.3 </a> - Tarefa 1 e 2 (SOAP e REST)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Efzebx9RKwRJhJXQRfbLLqwBz7eQUHUkUIcyuAOy_LtFVg?e=u9pCCK">Aula 3.2 </a> - Tarefa 3 (REST e WebSocket)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 4.4 </a> - Tarefa 4 (MOM)</p>
